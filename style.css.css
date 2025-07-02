@@ -1,0 +1,49 @@
+style.css
+body {
+  background-color: #b7b7f1;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #67c718;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  text-align: justify;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d93025;
+  text-decoration: underline;
+}
